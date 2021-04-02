@@ -1,0 +1,1 @@
+Working through exercises from *Think Bayes* version 2, by Allen Downey.
