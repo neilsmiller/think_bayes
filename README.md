@@ -1,1 +1,1 @@
-Working through exercises from *Think Bayes* version 2, by Allen Downey.
+Working through exercises from *Think Bayes* version 2, by Allen Downey. The book is __[freely available from the author](https://allendowney.github.io/ThinkBayes2/index.html)__!
